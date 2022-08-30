@@ -1,0 +1,110 @@
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.exe.config
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.exe
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.pdb
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Form1.resources
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Properties.Resources.resources
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.exe
+C:\Users\Admin\source\repos\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.pdb
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.exe.config
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.exe
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.pdb
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Form1.resources
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.exe
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.pdb
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Form2.resources
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.exe.config
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.exe
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.pdb
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Form1.resources
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Form2.resources
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.exe
+C:\Users\Admin\Desktop\smartfactory_mini (2)\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.pdb
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.exe.config
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.exe
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\TeamProject_Client.pdb
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Form1.resources
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Form2.resources
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.exe
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\obj\Debug\TeamProject_Client.pdb
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\smartfactory_mini\TeamProject_Client\TeamProject_Client\bin\Debug\MetroFramework.Fonts.dll
