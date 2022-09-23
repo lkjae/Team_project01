@@ -1,0 +1,4 @@
+Error: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+이런 에러가 발생하여서 DB에 접속이 안됨.
+권한도 열어주고 보안수준도 낮춰주었지만 안됨
+결국 DB접속이 되는 다른 폴더에 news폴더와 board폴더에 있는 요소를 가져와 합쳤음.
