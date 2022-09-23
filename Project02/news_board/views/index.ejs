@@ -1,0 +1,261 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>pdh</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="static/assets/css/main.css" />
+	
+	
+		<!-- 차트 링크 -->
+		<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+	
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<span class="image avatar48"><img src="static/images/logo2.png" style = "width: 80px; height: 80px;"  alt="" /></span>
+							<h3 id="title">시장</h3>
+							<p>원자재 시장</p>
+						</div>
+					
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#통계"  id="top-link"><span class="icon solid fa-chart-pie" style="font-size: 30px;">통계</span></a></li>
+								<li><a href="#그래프" id="차트보기-link"><span class="icon solid fa-chart-line"style="font-size: 30px;">그래프</span></a></li>
+								<li><a href="#관련자료" id="about-link"><span class="icon solid fa-newspaper"style="font-size: 30px;">관련자료</span></a></li>
+								<li><a href="#게시판" id="contact-link"><span class="icon solid fa-comments"style="font-size: 30px;">게시판</span></a></li>
+							</ul>
+						</nav>
+						
+				</div>
+				
+				<div class="bottom">
+
+				</div>
+
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Intro -->
+					<section id="통계" class="one dark cover" style="padding-bottom:70%;">
+						<div class="container" >
+
+							<header>
+								<h2> 통계 </h2>
+								
+							</header>
+							<tr>
+								<th class="flag">&nbsp;</th>
+								<!--
+									// 위아래 버튼 아이콘
+								<th class="left noWrap elp pointer" data-col-caption="Commodity" data-col-name="shortname">상품<span sort_default="" class="headerSortDefault newSiteIconsSprite"></span></th>
+								<th class="left pointer" data-col-caption="Month" data-col-name="future_leading_contract_exp_shortdate"> 월물 <span sort_default="" class="headerSortUp newSiteIconsSprite"></span></th>
+								<th>종가</th>
+								<th>고가</th>
+								<th>저가</th>
+								<th>변동</th>
+								<th class="pointer" data-col-caption="Chg. %" data-col-name="pair_change_percent">변동 %<span sort_default="" class="headerSortDefault newSiteIconsSprite"></span></th>
+								<th class="pointer" data-col-caption="Time" data-col-name="shown_datetime">시간<span sort_default="" class="headerSortDefault newSiteIconsSprite"></span></th>
+								-->
+
+								<th class="icon pointer"></th>
+								</tr>
+								</thead>
+								
+								<div id="cross_rates_container" class="js-ga-on-sort" ga-first-column-name="Commodity">
+									<script>
+										loader(['plusLoader']).ready(function (plusLoader) {
+											if (window.PlusIcons) {
+												PlusIcons($('.js-plus-icon'));
+											} else if (plusLoader) {
+												plusLoader.ready();
+											}
+										});
+									</script>
+									<table class="genTbl closedTbl crossRatesTbl" id="cross_rate_1" tablesorter="">
+									<thead>
+									<tr>
+									
+									<th class="left noWrap elp pointer" data-col-caption="Commodity" data-col-name="shortname">상품<span sort_default="" class="headerSortDefault newSiteIconsSprite"></span></th>
+									<th class="left pointer" data-col-caption="Month" data-col-name="future_leading_contract_exp_shortdate"> 월물 <span sort_default="" class="headerSortUp newSiteIconsSprite"></span></th>
+									<th>종가</th>
+									<th>고가</th>
+									<th>저가</th>
+									<th>변동</th>
+									<th class="pointer" data-col-caption="Chg. %" data-col-name="pair_change_percent">변동 %<span sort_default="" class="headerSortDefault newSiteIconsSprite"></span></th>
+									<th class="pointer" data-col-caption="Time" data-col-name="shown_datetime">시간<span sort_default="" class="headerSortDefault newSiteIconsSprite"></span></th>
+									<th class="icon pointer"></th>
+									</tr>
+									</thead>
+									<tbody>
+
+									
+									<tr>
+									
+									<td class="bold left plusIconTd noWrap elp">금</a></td>
+									<td class="left noWrap">날짜입력</td>
+									<td class="pid-8830-last">종가입력</td>
+									<td class="pid-8830-high">고가입력</td>
+									<td class="pid-8830-low">저가입력</td>
+									<td class="bold pid-8830-pc greenFont">변동입력</td>
+									<td class="bold pid-8830-pcp greenFont">변동%입력</td>
+									<td class="pid-8830-time" data-value="1663648154">시간입력</td>
+									
+									</tr>
+									</tr></tbody>
+									</table>
+									</div>
+
+
+						</div>
+					</section>
+
+				<!-- Portfolio -->
+					<section id="그래프" class="two" style="padding-bottom:70%;">
+						<div class="container">
+							<div class="list_option" style="text-align: left;">                    
+								<form method="post" style="display: inline;">
+									<select class="selectpicker" onchange=""
+										style="display: inline; width: 200px; height:78px; font-size:30px; ">  
+									<option value="" disabled selected hidden>재료 선택</option>
+									<option value="금">금</option>
+									<option value="은">은</option>
+									<option value="동">동</option>
+								
+							</select>
+								</form>
+							</div>
+							<!-- 소스 그래프 삽입 위치 입니다.-->
+							<div class="container">
+								<canvas id="myChart"></canvas>
+							  </div>
+							  <!-- 차트 -->
+							  <script>
+								var ctx = document.getElementById('myChart').getContext('2d');
+								var chart = new Chart(ctx, {
+								  // 챠트 종류를 선택
+								  type: 'line',
+							
+								  // 챠트를 그릴 데이타
+								  data: {
+									labels: ['1월', '2월', '3월', '4월', '5월', '6월', '7월', '8월', '9월', '10월', '11월', '12월'],
+									datasets: [{
+									  label: 'price',
+									  backgroundColor: 'transparent',
+									  borderColor: 'red',
+									  data: [7000,4000,3000,4000,5000,9000,7000,20000,9000,2500,1000,13000]
+									}]
+								  },
+								  // 옵션
+								  options: {}
+								});
+							  </script>
+							<!-- 상입 종료 지점 입니다.-->
+
+							
+						</div>
+					</section>
+
+				<!-- About Me -->
+					<section id="관련자료" class="three" style="padding-bottom:50%;">
+						
+
+						<div class="container">
+							<nav class="navbar"  style="background-color: #c8d7ff;">
+								<div class="container-fluid">
+								<a class="navbar-brand" >관련 뉴스 (클릭시 해당 뉴스로 이동합니다.)</a>
+								
+								</div>
+							</nav>
+							<table class="table table-info table-hover" >            
+								<thead class="table-dark">
+								 <tr>
+									 <th scope="col">목차</th>
+									 <th scope="col">제목</th>                                    
+								 </tr>
+								</thead>
+								  
+							 <tbody>
+								 <% for(var i=0; i<data.length; i++){%>
+									 <tr>
+										 <td><%= data[i].Num%></td>
+										 <td onclick="window.open('<%= data[i].Link%>')"><%= data[i].Title%></td>  
+									 </tr>
+								 <% }%>
+							 </tbody>   
+							  
+							
+							 </table>
+					</section>
+
+				<!-- Contact -->
+					<section id="게시판" class="four" style="padding-bottom:70%;">
+						<div class="container">
+							<style>
+								textarea{
+									width:500px; 
+									height:100px; 
+									resize:none;
+								}
+							</style>
+							<nav class="navbar"  style="background-color: #e3f2fd;">
+								<div class="container-fluid">
+								  <a class="navbar-brand" >게시판</a>
+								</div>
+							</nav>
+						
+							<FORM action="/board_insert" method="post">
+								<INPUT TYPE="text" name="name"  class="form-control mt-4 mb-2" placeholder="이름을 입력해 주세요.(최대 5자)"maxlength="5" style="width:500px; " required> <p></p>
+								<INPUT TYPE="text" name="title" class="form-control mt-4 mb-2" placeholder="제목을 입력해 주세요. (최대 20자)" maxlength="20" style="width:500px; "  required> <p></p>
+								<TEXTAREA id="content" name="content"  class="form-control mt-4 mb-2" cols="30" rows="10" placeholder="내용을 입력해 주세요.(최대 100자)" maxlength="100" required></TEXTAREA>
+							  
+								<button type="submit" class="btn btn-primary active">제출하기</button>
+								
+							</FORM>
+
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+
+				<!-- Copyright -->
+					<ul class="copyright">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+
+			</div>
+
+		<!-- Scripts -->
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  		  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+   		 crossorigin="anonymous"></script>
+ 		 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+  		  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+   		 crossorigin="anonymous"></script>
+  		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+ 		 integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+   		 crossorigin="anonymous"></script>
+		<script src="static/assets/js/jquery.min.js"></script>
+		<script src="static/assets/js/jquery.scrolly.min.js"></script>
+		<script src="static/assets/js/jquery.scrollex.min.js"></script>
+		<script src="static/assets/js/browser.min.js"></script>
+		<script src="static/assets/js/breakpoints.min.js"></script>
+		<script src="static/assets/js/util.js"></script>
+		<script src="static/assets/js/main.js"></script>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	</body>
+</html>
